@@ -1,11 +1,11 @@
-# chess
+# Chess
 Sample chess game
 
 # Prerequisites
 1) JDK 1.8
 2) Maven
 
-# Steps to Build & execute
+# Steps to build & execute
 1) Pull the repo
 2) Run mvn clean package
 3) Run java -jar target/app-0.1.0.jar 
